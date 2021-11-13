@@ -1,0 +1,9 @@
+{
+    "properties": [
+        {
+            "name": "authorization-server.issuer",
+            "type": "java.lang.String",
+            "description": "The Issuer Identifier of the OIDC Provider."
+        }
+    ]
+}
